@@ -49,7 +49,7 @@
 
   <h3>📊 GitHub Stats</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdallah699&show_icons=true&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff" alt="Abdallah's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdallah699&show_icons=true&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff&include_all_commits=true" alt="Abdallah's Stats" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah699&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff" alt="Top Languages" />
   </p>
