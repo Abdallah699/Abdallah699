@@ -10,7 +10,7 @@
     <a href="https://abdallah-alhamad.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/abdallah-alhamad-b93060209/">
+    <a href="https://www.linkedin.com/in/abdallah-alhamad-09256b251/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
