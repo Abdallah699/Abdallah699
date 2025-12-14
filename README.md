@@ -58,5 +58,5 @@ I am a final-year **Software Engineering student** bridging the gap between low-
 </div>
 
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=Abdallah699&palette=github-dark&color_snake=58A6FF" alt="snake" />
+  <img src="https://github.com/Abdallah699/Abdallah699/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
